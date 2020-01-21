@@ -18,3 +18,4 @@ I merged the training dataset together with the "properties" dataset (which cont
 
 As this was a supervised, numerical regression machine learning problem, I used the linear regression, KKN, and random forest models to try to build my algorithm. I used SQL to merge the datasets, and Python to conduct the exploratory data analysis, data cleaning, and algorithm building.   
 
+ 
